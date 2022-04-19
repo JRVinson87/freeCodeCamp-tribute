@@ -5,7 +5,7 @@ body {
 }
 
 #top {
-  background: linear-gradient(#46618c 75%, #b7dfe7);
+  background: linear-gradient(#46618c 70%, #b7dfe7);
   background-color: #46618c;
   display: flex;
   flex-direction: column;
