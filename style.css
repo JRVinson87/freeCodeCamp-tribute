@@ -41,11 +41,9 @@ img {
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin-left: 20%;
-  margin-right: 20%;
 }
 
 #quote {
   font-style: italic;
-  width: 400px;
+  max-width: 500px;
 }
